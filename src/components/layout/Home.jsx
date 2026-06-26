@@ -207,11 +207,10 @@ export default function Home() {
           <div className="grid md:grid-cols-3 gap-12 items-start">
             {/* Developer Bio & Social Links Card */}
             <div className="bg-white rounded-2xl border border-slate-200 p-8 shadow-md">
-              {/* Removed KA Avatar placeholder */}
               <h3 className="text-2xl font-extrabold text-[#0B2255] mb-1">Kate Angel</h3>
-              <p className="text-xs font-mono font-bold text-blue-600 mb-4 uppercase tracking-wider">Web &amp; AI Developer</p>
+              <p className="text-xs font-mono font-bold text-blue-600 mb-4 uppercase tracking-wider">3rd Year &amp; Aspiring UI/UX Designer</p>
               <p className="text-sm text-slate-500 leading-relaxed mb-6">
-                I love building smart web applications that combine clean layout designs with private, real-time camera tracking features.
+               I enjoy building projects from scratch that focus on clean UI, highly responsive design, and intuitive user experiences, combining modern web aesthetics with smart, functional features.
               </p>
               
               {/* Connect Section */}
