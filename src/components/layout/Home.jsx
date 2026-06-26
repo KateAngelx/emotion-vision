@@ -227,7 +227,7 @@ export default function Home() {
                   GitHub
                 </a>
                 <a 
-                  href="https://linkedin.com/in/kateangex" 
+                  href="https://linkedin.com/in/kateangelx" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="flex items-center gap-2 text-xs font-semibold text-slate-600 hover:text-blue-600 p-2 bg-slate-50 hover:bg-blue-50 rounded-xl border border-slate-100 transition-colors"
@@ -243,7 +243,7 @@ export default function Home() {
                   <Globe size={14} /> Stay Tuned
                 </button>
                 <a 
-                  href="mailto:escobarkateange@gmail.com" 
+                  href="mailto:escobarkateangel8@gmail.com" 
                   className="flex items-center gap-2 text-xs font-semibold text-slate-600 hover:text-blue-600 p-2 bg-slate-50 hover:bg-blue-50 rounded-xl border border-slate-100 transition-colors"
                 >
                   <Mail size={14} /> Email
